@@ -1,1 +1,8 @@
-print("class-02")
+# Variable
+shehbaz = "t"
+print(shehbaz)
+
+#data type 
+#string 
+name = "shehbaz"
+print(name)
