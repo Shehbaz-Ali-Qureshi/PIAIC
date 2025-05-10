@@ -1,5 +1,5 @@
-# boolean 
-a = 10
-b = 10 
-c = a==b     
-print(c)
+#f string
+firstname = "shahbaz"
+lastname = "ali"
+fullname = f"hellow {firstname} {lastname}"
+print(fullname)
