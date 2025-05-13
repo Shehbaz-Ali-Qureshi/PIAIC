@@ -1,8 +1,5 @@
-#f string
-firstname = "shahbaz"
-lastname = "ali"
-fullname = f"hellow {firstname} {lastname}"
-print(fullname)
-#Variable
-message = "hello, world!!!"
-print(message)
+#Concatenation
+firstName = "Shahbaz"
+lastName = "ali"
+fulName = firstName + "" + lastName
+print(fulName)
