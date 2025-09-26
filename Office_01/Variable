@@ -1,0 +1,22 @@
+#VARIABLES
+x = "Ali"
+y = 21
+print(x)
+print(y)
+#VARIABLE DATA TYPE 
+x = "Ali"
+y = 21
+print(type(x))
+print(type(y))
+#ASSIGN MULTIPLE VALUES VARIABLE
+foods = ["biryani" , "haleem"]
+a, b = foods
+print(a) 
+print(b)
+#OUTPUT VARIABLE
+a = "python"
+b = "is"
+c = "interpreted"
+d = "programming"
+e = "language"
+print(a, b, c, d, e)

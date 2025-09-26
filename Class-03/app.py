@@ -4,4 +4,4 @@ if (number_age >= 18):
     print("you are allowed")
     print("wellcome")
 else:
-    print("you are not allowed")    
+    print("you are not allowed")   
